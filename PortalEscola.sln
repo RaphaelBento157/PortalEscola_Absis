@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalEscola", "PortalEscola\PortalEscola.csproj", "{0850B4B3-2A86-4160-AA12-24291C57EB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acesso", "Acesso\Acesso.csproj", "{563FA7A1-2D63-4695-B418-3E1E9EDD0FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0850B4B3-2A86-4160-AA12-24291C57EB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0850B4B3-2A86-4160-AA12-24291C57EB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0850B4B3-2A86-4160-AA12-24291C57EB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0850B4B3-2A86-4160-AA12-24291C57EB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563FA7A1-2D63-4695-B418-3E1E9EDD0FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563FA7A1-2D63-4695-B418-3E1E9EDD0FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563FA7A1-2D63-4695-B418-3E1E9EDD0FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563FA7A1-2D63-4695-B418-3E1E9EDD0FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
